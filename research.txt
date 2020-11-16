@@ -32,7 +32,8 @@ Features/Inputs:
 
 The model takes as input a combination (concatenation?) of the listed features and outputs buy/sell decision of a given time-length (10-years?, 5-year?, 1-year?, 6months?, 1 week?, 1day?). How long would it take to process all available stock data? New data/content gets created every minute. The time between start of model training and final model prediction could be a practical challenge to reduce. Perhaps 2 models would be needed? 1st is trained on all data mined before time T (historical) and 2nd is trained on all data mined after time T.
 
-This article shows one method for sentiment analysis of financial news -> https://towardsdatascience.com/sentiment-analysis-of-stocks-from-financial-news-using-python-82ebdcefb638
+1) This article shows one method for sentiment analysis of financial news -> https://towardsdatascience.com/sentiment-analysis-of-stocks-from-financial-news-using-python-82ebdcefb638
+2) This article shows how to web-scrape financial data -> https://medium.com/datadriveninvestor/use-python-to-value-a-stock-automatically-3b520422ab6
 
 GPT-3 paper: https://arxiv.org/pdf/2005.14165.pdf
 
