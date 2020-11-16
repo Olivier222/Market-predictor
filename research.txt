@@ -40,3 +40,5 @@ GPT-3 paper: https://arxiv.org/pdf/2005.14165.pdf
 GPT-3 is a Transformer model. A Transformer model would likely be the first choice for text analysis and stock price prediction as it is the state-of-the-art sequence-sequence models
 
 Another transformer model could be used to encode/embed stock price data.
+
+Use this to simulate the stock market for the AI training -> https://github.com/dchrostowski/investopedia_simulator_api
