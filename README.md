@@ -1,4 +1,4 @@
-# Automated Trading System for Financial Independence
+# Automated Trading System
 
 ## TODO:
 ### Deep Reinforcement Learning model [[example]](https://arxiv.org/abs/1907.04373)
