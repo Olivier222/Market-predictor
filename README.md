@@ -1,7 +1,12 @@
 # Automated Trading System for Financial Independence
 
 ## TODO:
-### 1) [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101)
+### Deep Reinforcement Learning model [[example]](https://arxiv.org/abs/1907.04373)
+#### Inputs:
+1) Pre-trained Sentiment analysis model embeddings/hidden layers. [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
+2) 
+### 2) 
+### 3) 
 
 ## Extra Research / Brainstorm
 Implement AI for predicting stock market / turning a profit on auto.
