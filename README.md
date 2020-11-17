@@ -3,7 +3,9 @@
 ## TODO:
 ### Deep Reinforcement Learning model [[example]](https://arxiv.org/abs/1907.04373)
 #### Inputs:
-1) Pre-trained Sentiment analysis model embeddings/hidden layers. [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
+1) Output/hidden-layer embeddings of a financial news sentiment analysis pre-trained model. 
+[[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). 
+Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
 2) 
 ### 2) 
 ### 3) 
