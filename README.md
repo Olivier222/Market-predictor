@@ -3,7 +3,7 @@
 ## TODO:
 ### 1) [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101)
 
-
+## Extra Research / Brainstorm
 Implement AI for predicting stock market / turning a profit on auto.
 
 Investors look at many factors that influence markets in order to decide to invest/trade/buy/hold/sell an asset.
