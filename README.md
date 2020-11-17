@@ -1,14 +1,16 @@
 # Automated Trading System
 
 ## TODO:
-### Deep Reinforcement Learning model [[example]](https://arxiv.org/abs/1907.04373)
+### Deep Reinforcement Learning model 
+Examples:
+1) [[Capturing Financial markets to apply Deep Reinforcement Learning]](https://arxiv.org/abs/1907.04373)
+2) [[A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem]](https://arxiv.org/pdf/1706.10059.pdf)
 #### Inputs:
 1) Output/hidden-layer embeddings of a financial news sentiment analysis pre-trained model. 
 [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). 
 Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
-2) 
-### 2) 
-### 3) 
+2) Technical Indactors, price history (OHLCV), financial statements (all with timestamps). Pass through a Transform network (3 layers?).
+3) Portfolio State
 
 ## Extra Research / Brainstorm
 Implement AI for predicting stock market / turning a profit on auto.
