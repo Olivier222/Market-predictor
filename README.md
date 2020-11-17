@@ -1,7 +1,7 @@
 # Automated Trading System for Financial Independence
 
-#### 2) What is gradient descent? [[src](http://houseofbots.com/news-detail/2849-4-data-science-and-machine-learning-interview-questions)]
-[[Answer]](https://towardsdatascience.com/an-introduction-to-gradient-descent-c9cca5739307)
+## TODO:
+### 1) [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101)
 
 
 Implement AI for predicting stock market / turning a profit on auto.
