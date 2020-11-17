@@ -11,7 +11,7 @@ Examples:
 [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). 
 Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
 2) Technical Indactors, price history (OHLCV), financial statements (all with timestamps). Pass through a Transform network (3 layers?).
-3) Portfolio State. Tensor 
+3) Portfolio State. 2D Matrix with 3 columns (price, number of shares, cash) and N rows (where N is the number of different/pre-selected assets in the portfolio)
 
 ## Extra Research / Brainstorm
 Implement AI for predicting stock market / turning a profit on auto.
