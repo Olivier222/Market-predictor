@@ -6,12 +6,16 @@ Examples:
 1) [[Capturing Financial markets to apply Deep Reinforcement Learning]](https://arxiv.org/abs/1907.04373)
 2) [[A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem]](https://arxiv.org/pdf/1706.10059.pdf)
 3) [[Deep Reinforcement Learning for Automated Stock Trading]](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
+
 #### Inputs:
 1) Output/hidden-layer embeddings of a financial news sentiment analysis pre-trained model. 
 [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). 
 Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
 2) Technical Indactors, price history (OHLCV), financial statements (all with timestamps). Pass through a Transform network (3 layers?).
 3) Portfolio State. 2D Matrix with 3 columns (price, number of shares, cash) and N rows (where N is the number of different/pre-selected assets in the portfolio)
+
+#### Action Space:
+The AI trader can perform 1 of 3 actions for each asset in the portfolio: buy/sell/hold
 
 ## Extra Research / Brainstorm
 Implement AI for predicting stock market / turning a profit on auto.
