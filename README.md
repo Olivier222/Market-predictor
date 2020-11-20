@@ -63,3 +63,5 @@ Another transformer model could be used to encode/embed stock price data.
 Use this to simulate the stock market for the AI training -> https://github.com/dchrostowski/investopedia_simulator_api
 
 Website that appears to have a successful implementation -> https://iknowfirst.com/
+
+gamification of web platform?: could use human/expert input as imitation learning? imitate warren buffet? collection of "experiences" for experience replay which are human-driven such as the historical investing performance of known succesful traders/investors?
