@@ -68,3 +68,5 @@ Website that appears to have a successful implementation -> https://iknowfirst.c
 gamification of web platform?: could use human/expert input as imitation learning? imitate warren buffet? collection of "experiences" for experience replay which are human-driven such as the historical investing performance of known succesful traders/investors?
 
 
+could extend this openAI gym environment ->  https://awesomeopensource.com/project/AminHP/gym-anytrading
+
