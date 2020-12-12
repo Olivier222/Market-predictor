@@ -7,7 +7,7 @@ Examples:
 2) [[A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem]](https://arxiv.org/pdf/1706.10059.pdf)
 3) [[Deep Reinforcement Learning for Automated Stock Trading]](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
 
-#### Inputs:
+#### Inputs/Observation Space:
 1) Output/hidden-layer embeddings of a financial news sentiment analysis pre-trained model. 
 [[FinBERT]](https://medium.com/prosus-ai-tech-blog/finbert-financial-sentiment-analysis-with-bert-b277a3607101). 
 Justification: such a model is able to extract valuable info from unstructured data such as financial news. Could provide important insights for trade decisions.
