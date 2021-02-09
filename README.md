@@ -22,14 +22,15 @@ Implement AI for predicting stock market / turning a profit on auto.
 
 Investors look at many factors that influence markets in order to decide to invest/trade/buy/hold/sell an asset.
 
-Factors can include (but no limited to):
+portfolio Factors can include (but no limited to):
 
 1) financial statements
 2) financial news
 3) psychology of the masses regarding the company
 4) competition
 5) stock price and history
-6) macro economic factors (i.e: trade agreements, subsidies, local,national and foreign governments policies)
+6) macro economic factors (i.e: interest rates, currency, country, industry, trade agreements, subsidies, local, national and foreign governments policies)
+7) style factors: momentum, volatility, value and quality etc...
 
 Most of these require knowledge in the field which is acquired by many hours of reading and digesting public information.
 
